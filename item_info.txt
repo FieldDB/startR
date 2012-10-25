@@ -1,0 +1,463 @@
+Item	block	type	frequency	condition
+1	1	word	183.45	FemSingNom
+2	1	word	158.78	FemSingNom
+3	1	word	25.83	FemSingNom
+4	1	word	228.44	FemSingNom
+5	1	word	191.35	FemSingNom
+6	1	word	34.65	FemSingNom
+7	1	word	138.34	FemSingNom
+8	1	word	44.75	FemSingNom
+9	1	word	33.6	FemSingNom
+10	1	word	168.09	FemSingNom
+11	1	word	55.89	FemSingNom
+12	1	word	474.87	FemSingNom
+13	1	word	185.41	FemSingNom
+14	1	word	86.98	FemSingNom
+15	1	word	53.5	FemSingNom
+16	1	word	106.32	FemSingNom
+17	1	word	80.13	FemSingNom
+18	1	word	99.9	FemSingNom
+19	1	word	29.01	FemSingNom
+20	1	word	28.28	FemSingNom
+21	1	word	118.26	MascSingGen
+22	1	word	131.3	MascSingGen
+23	1	word	125.73	MascSingGen
+24	1	word	59.93	MascSingGen
+25	1	word	36.42	MascSingGen
+26	1	word	35.69	MascSingGen
+27	1	word	137.3	MascSingGen
+28	1	word	240.44	MascSingGen
+29	1	word	33.73	MascSingGen
+30	1	word	68.92	MascSingGen
+31	1	word	111.4	MascSingGen
+32	1	word	101.67	MascSingGen
+33	1	word	102.34	MascSingGen
+34	1	word	286.53	MascSingGen
+35	1	word	111.28	MascSingGen
+36	1	word	94.82	MascSingGen
+37	1	word	132.58	MascSingGen
+38	1	word	95.92	MascSingGen
+39	1	word	86.55	MascSingGen
+40	1	word	80	MascSingGen
+41	2	word	111.4	MascSingNom
+42	2	word	101.67	MascSingNom
+43	2	word	102.34	MascSingNom
+44	2	word	286.53	MascSingNom
+45	2	word	111.28	MascSingNom
+46	2	word	94.82	MascSingNom
+47	2	word	132.58	MascSingNom
+48	2	word	95.92	MascSingNom
+49	2	word	86.55	MascSingNom
+50	2	word	80	MascSingNom
+51	2	word	118.26	MascSingNom
+52	2	word	131.3	MascSingNom
+53	2	word	125.73	MascSingNom
+54	2	word	59.93	MascSingNom
+55	2	word	36.42	MascSingNom
+56	2	word	35.69	MascSingNom
+57	2	word	137.3	MascSingNom
+58	2	word	240.44	MascSingNom
+59	2	word	33.73	MascSingNom
+60	2	word	68.92	MascSingNom
+61	2	word	55.89	FemPlGen
+62	2	word	474.87	FemPlGen
+63	2	word	185.41	FemPlGen
+64	2	word	86.98	FemPlGen
+65	2	word	53.5	FemPlGen
+66	2	word	106.32	FemPlGen
+67	2	word	80.13	FemPlGen
+68	2	word	99.9	FemPlGen
+69	2	word	29.01	FemPlGen
+70	2	word	28.28	FemPlGen
+71	2	word	183.45	FemPlGen
+72	2	word	158.78	FemPlGen
+73	2	word	25.83	FemPlGen
+74	2	word	228.44	FemPlGen
+75	2	word	191.35	FemPlGen
+76	2	word	34.65	FemPlGen
+77	2	word	138.34	FemPlGen
+78	2	word	44.75	FemPlGen
+79	2	word	33.6	FemPlGen
+80	2	word	168.09	FemPlGen
+81	3	word	28.4	FemSoftEnd
+82	3	word	62.5	FemSoftEnd
+83	3	word	95.12	FemSoftEnd
+84	3	word	173.59	FemSoftEnd
+85	3	word	417.21	FemSoftEnd
+86	3	word	128.91	FemSoftEnd
+87	3	word	36.67	MascSoftEnd
+88	3	word	59.5	MascSoftEnd
+89	3	word	91.2	MascSoftEnd
+90	3	word	308.75	MascSoftEnd
+91	3	word	54.17	FemSoftEnd
+92	3	word	88.88	FemSoftEnd
+93	3	word	117.28	FemSoftEnd
+94	3	word	279.43	FemSoftEnd
+95	3	word	463.24	FemSoftEnd
+96	3	word	na	FemSoftEnd
+97	3	word	43.58	MascSoftEnd
+98	3	word	63.35	MascSoftEnd
+99	3	word	209.65	MascSoftEnd
+100	3	word	134.6	MascSoftEnd
+101	3	word	64.94	VerbInf
+102	3	word	na	VerbInf
+103	3	word	140.66	VerbInf
+104	3	word	107.79	VerbInf
+105	3	word	302.26	VerbInf
+106	3	word	343.82	VerbInf
+107	3	word	36.85	VerbInf
+108	3	word	326.25	VerbInf
+109	3	word	112.26	VerbInf
+110	3	word	701.05	VerbInf
+111	3	word	237.38	VerbInf
+112	3	word	1436.68	VerbInf
+113	3	word	115.99	VerbInf
+114	3	word	44.38	VerbInf
+115	3	word	546	VerbInf
+116	3	word	44.68	VerbInf
+117	3	word	49.09	VerbInf
+118	3	word	66.29	VerbInf
+119	3	word	324.36	VerbInf
+120	3	word	463.49	VerbInf
+121	4	word	237.38	VerbPast
+122	4	word	1436.68	VerbPast
+123	4	word	115.99	VerbPast
+124	4	word	44.38	VerbPast
+125	4	word	546	VerbPast
+126	4	word	44.68	VerbPast
+127	4	word	49.09	VerbPast
+128	4	word	66.29	VerbPast
+129	4	word	324.36	VerbPast
+130	4	word	463.49	VerbPast
+131	4	word	64.94	VerbPast
+132	4	word	na	VerbPast
+133	4	word	140.66	VerbPast
+134	4	word	107.79	VerbPast
+135	4	word	302.26	VerbPast
+136	4	word	343.82	VerbPast
+137	4	word	36.85	VerbPast
+138	4	word	326.25	VerbPast
+139	4	word	112.26	VerbPast
+140	4	word	701.05	VerbPast
+141	4	word	55.46	NounL
+142	4	word	na	NounL
+143	4	word	na	NounL
+144	4	word	174.39	NounL
+145	4	word	na	NounL
+146	4	word	52.46	NounL
+147	4	word	71.56	NounL
+148	4	word	62.01	NounL
+149	4	word	390.53	NounL
+150	4	word	38.99	NounL
+151	4	word	29.87	NounL
+152	4	word	25.4	NounL
+153	4	word	595.89	NounL
+154	4	word	42.24	NounL
+155	4	word	na	NounL
+156	4	word	100.57	NounL
+157	4	word	50.68	NounL
+158	4	word	74.13	NounL
+159	4	word	na	NounL
+160	4	word	129.34	NounL
+161	5	word	na	hard
+162	5	word	52.76	hard
+163	5	word	11223.99	soft
+164	5	word	258.31	soft
+165	5	word	98.98	soft
+166	5	word	176.29	soft
+167	5	word	32.87	soft
+168	5	nonce		HS
+169	5	nonce		HS
+170	5	nonce		HS
+171	5	nonce		HS
+172	5	nonce		HS
+173	5	nonce		SH
+174	5	nonce		SH
+175	5	nonce		SH
+176	5	nonce		SH
+177	5	nonce		SH
+178	1	nonce		critical
+179	1	nonce		critical
+180	1	nonce		critical
+181	1	nonce		critical
+182	1	nonce		critical
+183	1	nonce		critical
+184	1	nonce		critical
+185	1	nonce		critical
+186	1	nonce		critical
+187	1	nonce		critical
+188	1	nonce		critical
+189	1	nonce		critical
+190	1	nonce		critical
+191	1	nonce		critical
+192	1	nonce		critical
+193	1	nonce		critical
+194	1	nonce		critical
+195	1	nonce		critical
+196	1	nonce		critical
+197	1	nonce		critical
+198	2	nonce		critical
+199	2	nonce		critical
+200	2	nonce		critical
+201	2	nonce		critical
+202	2	nonce		critical
+203	2	nonce		critical
+204	2	nonce		critical
+205	2	nonce		critical
+206	2	nonce		critical
+207	2	nonce		critical
+208	2	nonce		critical
+209	2	nonce		critical
+210	2	nonce		critical
+211	2	nonce		critical
+212	2	nonce		critical
+213	2	nonce		critical
+214	2	nonce		critical
+215	2	nonce		critical
+216	2	nonce		critical
+217	2	nonce		critical
+218	3	nonce		critical
+219	3	nonce		critical
+220	3	nonce		critical
+221	3	nonce		critical
+222	3	nonce		critical
+223	3	nonce		critical
+224	3	nonce		critical
+225	3	nonce		critical
+226	3	nonce		critical
+227	3	nonce		critical
+228	3	nonce		critical
+229	3	nonce		critical
+230	3	nonce		critical
+231	3	nonce		critical
+232	3	nonce		critical
+233	3	nonce		critical
+234	3	nonce		critical
+235	3	nonce		critical
+236	3	nonce		critical
+237	3	nonce		critical
+238	4	nonce		critical
+239	4	nonce		critical
+240	4	nonce		critical
+241	4	nonce		critical
+242	4	nonce		critical
+243	4	nonce		critical
+244	4	nonce		critical
+245	4	nonce		critical
+246	4	nonce		critical
+247	4	nonce		critical
+248	4	nonce		critical
+249	4	nonce		critical
+250	4	nonce		critical
+251	4	nonce		critical
+252	4	nonce		critical
+253	4	nonce		critical
+254	4	nonce		critical
+255	4	nonce		critical
+256	4	nonce		critical
+257	4	nonce		critical
+258	6	additional	106.38	FemSingNom
+259	6	additional	54.78	FemSingNom
+260	6	additional	59.74	FemSingNom
+261	6	additional	60.6	FemSingNom
+262	6	additional	93.84	FemSingNom
+263	6	additional	117.71	FemSingNom
+264	6	additional	143.54	FemSingNom
+265	6	additional	53.74	FemSingNom
+266	6	additional	317.5	FemSingNom
+267	6	additional	414.28	FemSingNom
+268	6	additional	113.73	FemSingNom
+269	6	additional	109.08	FemSingNom
+270	6	additional	98.49	FemSingNom
+271	6	additional	64.21	FemSingNom
+272	6	additional	67.39	FemSingNom
+273	6	additional	73.88	FemSingNom
+274	6	additional	74.62	FemSingNom
+275	6	additional	79.39	FemSingNom
+276	6	additional	132.52	FemSingNom
+277	6	additional	157.62	FemSingNom
+278	7	filler	441.58	Neuter
+279	7	filler	201.63	Neuter
+280	7	filler	288.85	Neuter
+281	7	filler	915.59	Neuter
+282	7	filler	935.42	Neuter
+283	7	filler	946.32	Neuter
+284	7	filler	314.26	Neuter
+285	7	filler	75.41	Neuter
+286	7	filler	385.14	Neuter
+287	7	filler	319.64	Neuter
+288	8	filler	581.38	FemSingPrepDat
+289	8	filler	467.04	FemSingPrepDat
+290	8	filler	468.51	FemSingPrepDat
+291	8	filler	32.5	FemSingPrepDat
+292	8	filler	235.6	FemSingPrepDat
+293	8	filler	215.4	FemSingPrepDat
+294	8	filler	191.53	FemSingPrepDat
+295	8	filler	140.97	FemSingPrepDat
+296	8	filler	52.4	FemSingPrepDat
+297	8	filler	258.98	FemSingPrepDat
+298	9	filler	595.89	MascSingPrep
+299	9	filler	630.59	MascSingPrep
+300	9	filler	510.99	MascSingPrep
+301	9	filler	336.84	MascSingPrep
+302	9	filler	236.7	MascSingPrep
+303	9	filler	185.16	MascSingPrep
+304	9	filler	188.41	MascSingPrep
+305	9	filler	142.25	MascSingPrep
+306	9	filler	167.29	MascSingPrep
+307	9	filler	143.48	MascSingPrep
+308	7	nonce		filler
+309	7	nonce		filler
+310	7	nonce		filler
+311	7	nonce		filler
+312	7	nonce		filler
+313	7	nonce		filler
+314	7	nonce		filler
+315	7	nonce		filler
+316	7	nonce		filler
+317	7	nonce		filler
+318	8	nonce		filler
+319	8	nonce		filler
+320	8	nonce		filler
+321	8	nonce		filler
+322	8	nonce		filler
+323	8	nonce		filler
+324	8	nonce		filler
+325	8	nonce		filler
+326	8	nonce		filler
+327	8	nonce		filler
+328	9	nonce		filler
+329	9	nonce		filler
+330	9	nonce		filler
+331	9	nonce		filler
+332	9	nonce		filler
+333	9	nonce		filler
+334	9	nonce		filler
+335	9	nonce		filler
+336	9	nonce		filler
+337	9	nonce		filler
+338	6	nonce		additional
+339	6	nonce		additional
+340	6	nonce		additional
+341	6	nonce		additional
+342	6	nonce		additional
+343	6	nonce		additional
+344	6	nonce		additional
+345	6	nonce		additional
+346	6	nonce		additional
+347	6	nonce		additional
+348	6	nonce		additional
+349	6	nonce		additional
+350	6	nonce		additional
+351	6	nonce		additional
+352	6	nonce		additional
+353	6	nonce		additional
+354	6	nonce		additional
+355	6	nonce		additional
+356	6	nonce		additional
+357	6	nonce		additional
+358	11	word		derivation
+359	11	word		derivation
+360	11	word		derivation
+361	11	word		derivation
+362	11	word		derivation
+363	11	word		derivation
+364	11	word		derivation
+365	11	word		derivation
+366	11	word		derivation
+367	11	word		derivation
+368	11	word		derivation
+369	11	word		derivation
+370	11	word		derivation
+371	11	word		derivation
+372	11	word		derivation
+373	11	word		derivation
+374	11	word		derivation
+375	11	word		derivation
+376	11	word		derivation
+377	11	word		derivation
+378	11	word		derivation
+379	11	word		derivation
+380	11	word		derivation
+381	11	word		derivation
+382	11	word		derivation
+383	11	word		derivation
+384	11	word		derivation
+385	11	word		derivation
+386	11	word		derivation
+387	11	word		derivation
+388	11	word		derivation
+389	11	word		derivation
+390	11	word		derivation
+391	11	word		derivation
+392	11	word		derivation
+393	11	word		derivation
+394	11	word		derivation
+395	11	word		derivation
+396	11	word		derivation
+397	11	word		derivation
+398	11	word		derivation
+399	11	nonce		derivation
+400	11	nonce		derivation
+401	11	nonce		derivation
+402	11	nonce		derivation
+403	11	nonce		derivation
+404	11	nonce		derivation
+405	11	nonce		derivation
+406	11	nonce		derivation
+407	11	nonce		derivation
+408	11	nonce		derivation
+409	11	nonce		derivation
+410	11	nonce		derivation
+411	11	nonce		derivation
+412	11	nonce		derivation
+413	11	nonce		derivation
+414	11	nonce		derivation
+415	11	nonce		derivation
+416	11	nonce		derivation
+417	11	nonce		derivation
+418	11	nonce		derivation
+419	11	nonce		derivation
+420	11	nonce		derivation
+421	11	nonce		derivation
+422	11	nonce		derivation
+423	11	nonce		derivation
+424	11	nonce		derivation
+425	11	nonce		derivation
+426	11	nonce		derivation
+427	11	nonce		derivation
+428	11	nonce		derivation
+429	11	nonce		derivation
+430	11	nonce		derivation
+431	11	nonce		derivation
+432	11	nonce		derivation
+433	11	nonce		derivation
+434	11	nonce		derivation
+435	11	nonce		derivation
+436	11	nonce		derivation
+437	11	nonce		derivation
+438	11	nonce		derivation
+1001	10	word	675.46	practice
+1002	10	word	157.31	practice
+1003	10	word	515.95	practice
+1004	10	word	1189.94	practice
+1005	10	word	618.29	practice
+1006	10	word	1453.57	practice
+1007	10	word	2059.32	practice
+1008	10	word	410.79	practice
+1009	10	word	155.84	practice
+1010	10	word	1052.83	practice
+1011	10	word		practice
+1012	10	word		practice
+2001	10	nonce		practice
+2002	10	nonce		practice
+2003	10	nonce		practice
+2004	10	nonce		practice
+2005	10	nonce		practice
+2006	10	nonce		practice
+2007	10	nonce		practice
+2008	10	nonce		practice
+2009	10	nonce		practice
+2010	10	nonce		practice
+2011	10	nonce		practice
+2012	10	nonce		practice

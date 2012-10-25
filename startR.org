@@ -180,9 +180,9 @@ When we assigned the value of our data, we named the resulting object =my.data=.
 Different people come up with their own styles, and Google even has a "standard" that they suggest for R, [[http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html][available here at this link]]. But generally, some of the basic princples of good style are:
 1. Make names as descriptive as possible, without getting too long.
 2. Use one of three methods of separating words, to improve legibility:
-   - camelCase :: myGreatVariableName (not mygreatvariablename)
-   - dots :: my.great.variable.name
-   - underscores :: my_great_variable_name
+   - camelCase :: =myGreatVariableName= (not mygreatvariablename)
+   - dots :: =my.great.variable.name=
+   - underscores :: =my_great_variable_name=
 3. Avoid capital letters unless using camelCase or some other convention, because it just turns out to be really hard to remember capitalization, plus it requires extra keys to be hit (/really/ lazy...).
 
 Most functions in R tend to use the "dots" style, so that's the style I typically use. But the point here is that it's a "style" choice, not a "rule," so it's up to you.  Just make things legible, memorable, and easily typed, and you're fine.
@@ -192,12 +192,23 @@ To recap:
     - Reading data into R means:
       1. Getting the file into the R /working directory/, either by moving the file or changing the working directory, so that R will be able to "see" the file when you tell it to look.
       2. Using an appropriate function to read the data. We used =read.csv= here, but there are a whole host of functions to read different data types.
-      3. Storing the value of the function in an /object/ (sometimes also known as a /variable/), using the assignment operator "=<-="
+      3. Storing the value of the function in an /object/ (sometimes also known as a /variable/), using the assignment operator " =<-=" 
     - Reading data does not affect the file in any way, just makes the /values/ from the file available in the R /workspace/.
-    - The workspace is the R-internal set of "active" object that R can manipulate and analyze.
+    - The workspace is the R-internal set of "active" objects that R can manipulate and analyze.
     - Use a consistent and legible set of conventions when naming objects, when at all possible. This will help with legibility and reproducibility.
 
 ** Creating data
+There may be other times when you want to generate data within R itself, instead of reading everything from other files. For example, maybe you'd like to generate a series of normally-distributed random numbers (don't we all, from time to time?), or just a sequence of integers.  Here's some code that does these two things:
+
+#+begin_example
+  x <- rnorm(1000)
+  y <- 1:1000
+  z <- seq(0, 1, by = 0.1)
+#+end_example
+
+You'll recognize the assignment operator (the arrow) in all three. This means that in all three cases, we're not just generating a bunch of numbers, we're storing the values in an object.  In this example, =x= is a set of 1000 (pseudo-)random numbers taken from a normal distribution (that's what =rnorm= does), =y= is the sequence of integers from 1 to 1000 (that's what the =:= operator does), and =z= is a sequence of numbers from 0 to 1, in increments of 0.1 (that's one way to use the =seq= function). Now that we've created them, they're part of our workspace, alongside any other data that we've read in or created at this point.
+
+This is one difference between working with R and other programs you might be used to: it's absolutely normal and typical for your workspace to have multiple datasets or other variables at once.  You aren't limited to just working with one "file" at a time.
 
 ** Checking the workspace
 * Inspecting data
