@@ -1,0 +1,6 @@
+* startR
+This is just a small repo for use in a "getting started with R" tutorial.  The contents right now are just a few data files to play around with:
+
+- =lista.csv= and =listb.csv= :: some Auditory Lexical Decision Task data from a few language learners
+- =item_info.txt= and =subject_info.txt= :: some simplified (and perhaps made-up) info on the items and subjects in the lists, for merging into the data
+
