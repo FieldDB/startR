@@ -195,6 +195,7 @@ head(ldt.rt.byitem)
 rt.aov2.byitem <- aov(mean ~ type + Error(Item), data = ldt.rt.byitem)
 summary(rt.aov2.byitem)
 
+library(lme4)
 rt.lmer <- lmer(log(RT) ~ type + (1 + type | Subject) + (1|Item), data = ldt.rt.wnw)
 summary(rt.lmer)
 summary(rt.lm)
