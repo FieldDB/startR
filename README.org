@@ -1,7 +1,9 @@
 * startR
-This is just a small repo for use in a "getting started with R" tutorial.  The contents right now are just a few data files to play around with:
+This is just a small repo for use in a "getting started with R" tutorial.  The contents are in flux, as this is a work in progress.  Here's a quick description of the files:
 
-- =lista.csv= and =listb.csv= :: some Auditory Lexical Decision Task data from a few language learners
-- =item_info.txt= and =subject_info.txt= :: some simplified (and perhaps made-up) info on the items and subjects in the lists, for merging into the data
+- =listA.csv= and =listB.csv= : some Auditory Lexical Decision Task data from a few language learners
+- =item_info.txt= and =subject_info.txt= : some simplified (and perhaps made-up) info on the items and subjects in the lists, for merging into the data
+- =session2_script.R= : a script that I used in a second session to help walk through some basic concepts in loading files, naming objects, data cleaning and subsetting, etc. It includes lots of stuff (like =head()= and =summary()= that I would normally never put in a script, but it was helpful to have every single command pre-typed, to save time and the inevitable frustration of typos.
+- =startR.org= : a work-in-progress [[http://www.orgmode.org/][org-mode]] file, which I'll work into a standalone tutorial, suitable for LaTeX/PDF export.  Still rough and incomplete.
 
-There is also a work-in-progess tutorial file called =startR.org=.  It's still a rough draft, and incomplete.
+
