@@ -4,6 +4,6 @@ This is just a small repo for use in a "getting started with R" tutorial.  The c
 - =listA.csv= and =listB.csv= : some Auditory Lexical Decision Task data from a few language learners
 - =item_info.txt= and =subject_info.txt= : some simplified (and perhaps made-up) info on the items and subjects in the lists, for merging into the data
 - =session2_script.R= : a script that I used in a second session to help walk through some basic concepts in loading files, naming objects, data cleaning and subsetting, etc. It includes lots of stuff (like =head()= and =summary()= that I would normally never put in a script, but it was helpful to have every single command pre-typed, to save time and the inevitable frustration of typos.
-- =startR.org= : a work-in-progress [[http://www.orgmode.org/][org-mode]] file, which I'll work into a standalone tutorial, suitable for LaTeX/PDF export.  Still rough and incomplete.
+- =session3_script.R= : this is a walkthrough of the third (and final) session of this short series. It covers a few basics in typical steps in an analysis of continuous and categorical data, including formatting, sub-setting, establishing cutoffs for reaction times, and performing some basic analysis using t-tests, regular linear regression, ANOVA (omnibus and by-subjects), and mixed-effects models.
 
 
